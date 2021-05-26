@@ -1,4 +1,4 @@
-FROM httpd:latest
+FROM nexus.devops.tcrmtl.rtss.qc.ca:8182/httpd:latest
 
 LABEL maintainer="angel.eduardo.porras.ccsmtl@ssss.gouv.qc.ca"
 
